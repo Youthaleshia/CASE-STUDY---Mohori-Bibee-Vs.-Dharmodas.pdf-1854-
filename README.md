@@ -1,7 +1,7 @@
 # CASE-STUDY---Mohori-Bibee-Vs.-Dharmodas.pdf-1854-
-This case establishes rules for claiming damages in breach of contract, focusing on foreseeability of losses.
+This case deals with contracts involving minors and declares such agreements void under law.
 # Key Learning Outcome:
-Understanding the rule of remoteness of damages in contract law.
+Understanding competency of parties and legal capacity in contracts.
 # Key Takeaway:
-Only foreseeable and communicated losses can be claimed as damages.
+Contracts with minors are void from the beginning (void ab initio).
 ## Done by - YOUTHALESHIA L
